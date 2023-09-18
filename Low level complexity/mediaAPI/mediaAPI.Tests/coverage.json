@@ -1,0 +1,525 @@
+{
+  "mediaAPI.dll": {
+    "C:\\Users\\User\\source\\repos\\mediaAPI\\mediaAPI\\Program.cs": {
+      "Program": {
+        "System.Void Program::<Main>$(System.String[])": {
+          "Lines": {
+            "11": 13,
+            "12": 13,
+            "13": 13,
+            "14": 13,
+            "15": 13,
+            "17": 13,
+            "18": 13,
+            "20": 13,
+            "22": 13,
+            "23": 13,
+            "24": 13,
+            "25": 13,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "42": 13
+          },
+          "Branches": [
+            {
+              "Line": 22,
+              "Offset": 117,
+              "EndOffset": 119,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 13
+            },
+            {
+              "Line": 22,
+              "Offset": 117,
+              "EndOffset": 130,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "Program/<>c/<<<Main>$>b__0_2>d": {
+        "System.Void Program/<>c/<<<Main>$>b__0_2>d::MoveNext()": {
+          "Lines": {},
+          "Branches": [
+            {
+              "Line": 33,
+              "Offset": 48,
+              "EndOffset": 50,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 33,
+              "Offset": 48,
+              "EndOffset": 54,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 72,
+              "EndOffset": 74,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 72,
+              "EndOffset": 78,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\User\\source\\repos\\mediaAPI\\mediaAPI\\DatabaseConnection.cs": {
+      "mediaAPI.DatabaseConnection": {
+        "System.Data.IDbConnection mediaAPI.DatabaseConnection::CreateConnection()": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0
+          },
+          "Branches": []
+        },
+        "System.Void mediaAPI.DatabaseConnection::.ctor(System.String)": {
+          "Lines": {
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\User\\source\\repos\\mediaAPI\\mediaAPI\\TestAppConfiguration.cs": {
+      "mediaAPI.TestAppConfiguration": {
+        "System.Void mediaAPI.TestAppConfiguration::ConfigureServices(Microsoft.AspNetCore.Builder.WebApplicationBuilder)": {
+          "Lines": {
+            "21": 13,
+            "22": 13,
+            "23": 13,
+            "24": 13,
+            "25": 13,
+            "26": 13
+          },
+          "Branches": []
+        },
+        "System.Void mediaAPI.TestAppConfiguration::Configure(Microsoft.AspNetCore.Builder.WebApplication)": {
+          "Lines": {
+            "29": 13,
+            "32": 13,
+            "33": 4,
+            "34": 13,
+            "35": 4,
+            "36": 2,
+            "37": 2,
+            "38": 13,
+            "39": 13,
+            "40": 13,
+            "41": 2,
+            "42": 3,
+            "43": 13,
+            "44": 13,
+            "45": 1,
+            "46": 1,
+            "47": 17,
+            "50": 13,
+            "51": 3,
+            "52": 13,
+            "53": 3,
+            "54": 3,
+            "55": 13,
+            "56": 13,
+            "57": 5,
+            "58": 13,
+            "59": 13,
+            "60": 1,
+            "61": 1,
+            "62": 16,
+            "65": 13,
+            "66": 2,
+            "67": 13,
+            "68": 2,
+            "69": 2,
+            "70": 13,
+            "71": 13,
+            "72": 3,
+            "73": 13,
+            "74": 13,
+            "75": 1,
+            "76": 1,
+            "77": 15,
+            "80": 13,
+            "81": 2,
+            "82": 13,
+            "83": 2,
+            "84": 13,
+            "85": 13,
+            "86": 3,
+            "87": 1,
+            "88": 15,
+            "91": 13,
+            "92": 2,
+            "93": 13,
+            "94": 2,
+            "95": 13,
+            "96": 13,
+            "97": 3,
+            "98": 1,
+            "99": 15,
+            "100": 13
+          },
+          "Branches": []
+        }
+      },
+      "mediaAPI.TestAppConfiguration/<>c/<<Configure>b__1_0>d": {
+        "System.Void mediaAPI.TestAppConfiguration/<>c/<<Configure>b__1_0>d::MoveNext()": {
+          "Lines": {},
+          "Branches": [
+            {
+              "Line": 35,
+              "Offset": 45,
+              "EndOffset": 47,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 3
+            },
+            {
+              "Line": 35,
+              "Offset": 45,
+              "EndOffset": 65,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 35,
+              "Offset": 68,
+              "EndOffset": 70,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 2
+            },
+            {
+              "Line": 35,
+              "Offset": 68,
+              "EndOffset": 87,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 2
+            },
+            {
+              "Line": 42,
+              "Offset": 237,
+              "EndOffset": 239,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 1
+            },
+            {
+              "Line": 42,
+              "Offset": 237,
+              "EndOffset": 255,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "mediaAPI.TestAppConfiguration/<>c/<<Configure>b__1_1>d": {
+        "System.Void mediaAPI.TestAppConfiguration/<>c/<<Configure>b__1_1>d::MoveNext()": {
+          "Lines": {},
+          "Branches": [
+            {
+              "Line": 57,
+              "Offset": 311,
+              "EndOffset": 313,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 57,
+              "Offset": 311,
+              "EndOffset": 324,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 57,
+              "Offset": 329,
+              "EndOffset": 331,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 2
+            },
+            {
+              "Line": 57,
+              "Offset": 329,
+              "EndOffset": 347,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "mediaAPI.TestAppConfiguration/<>c/<<Configure>b__1_2>d": {
+        "System.Void mediaAPI.TestAppConfiguration/<>c/<<Configure>b__1_2>d::MoveNext()": {
+          "Lines": {},
+          "Branches": [
+            {
+              "Line": 72,
+              "Offset": 311,
+              "EndOffset": 313,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 72,
+              "Offset": 311,
+              "EndOffset": 324,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 72,
+              "Offset": 329,
+              "EndOffset": 331,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 72,
+              "Offset": 329,
+              "EndOffset": 347,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "mediaAPI.TestAppConfiguration/<>c/<<Configure>b__1_3>d": {
+        "System.Void mediaAPI.TestAppConfiguration/<>c/<<Configure>b__1_3>d::MoveNext()": {
+          "Lines": {},
+          "Branches": [
+            {
+              "Line": 86,
+              "Offset": 159,
+              "EndOffset": 161,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 86,
+              "Offset": 159,
+              "EndOffset": 170,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "mediaAPI.TestAppConfiguration/<>c/<<Configure>b__1_4>d": {
+        "System.Void mediaAPI.TestAppConfiguration/<>c/<<Configure>b__1_4>d::MoveNext()": {
+          "Lines": {},
+          "Branches": [
+            {
+              "Line": 97,
+              "Offset": 158,
+              "EndOffset": 160,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 97,
+              "Offset": 158,
+              "EndOffset": 169,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\User\\source\\repos\\mediaAPI\\mediaAPI\\Repositories\\PostRepository.cs": {
+      "mediaAPI.Repositories.PostRepository": {
+        "System.Void mediaAPI.Repositories.PostRepository::.ctor(System.Data.IDbConnection)": {
+          "Lines": {
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0
+          },
+          "Branches": []
+        }
+      },
+      "mediaAPI.Repositories.PostRepository/<CreatePostAsync>d__3": {
+        "System.Void mediaAPI.Repositories.PostRepository/<CreatePostAsync>d__3::MoveNext()": {
+          "Lines": {
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0
+          },
+          "Branches": []
+        }
+      },
+      "mediaAPI.Repositories.PostRepository/<GetAllPostsAsync>d__5": {
+        "System.Void mediaAPI.Repositories.PostRepository/<GetAllPostsAsync>d__5::MoveNext()": {
+          "Lines": {
+            "43": 0,
+            "45": 0,
+            "46": 0
+          },
+          "Branches": []
+        }
+      },
+      "mediaAPI.Repositories.PostRepository/<GetPostByIdAsync>d__2": {
+        "System.Void mediaAPI.Repositories.PostRepository/<GetPostByIdAsync>d__2::MoveNext()": {
+          "Lines": {
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0
+          },
+          "Branches": []
+        }
+      },
+      "mediaAPI.Repositories.PostRepository/<LikePostAsync>d__4": {
+        "System.Void mediaAPI.Repositories.PostRepository/<LikePostAsync>d__4::MoveNext()": {
+          "Lines": {
+            "37": 0,
+            "39": 0,
+            "40": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\User\\source\\repos\\mediaAPI\\mediaAPI\\Repositories\\UserRepository.cs": {
+      "mediaAPI.Repositories.UserRepository": {
+        "System.Void mediaAPI.Repositories.UserRepository::.ctor(System.Data.IDbConnection)": {
+          "Lines": {
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0
+          },
+          "Branches": []
+        }
+      },
+      "mediaAPI.Repositories.UserRepository/<GetUserByIdAsync>d__2": {
+        "System.Void mediaAPI.Repositories.UserRepository/<GetUserByIdAsync>d__2::MoveNext()": {
+          "Lines": {
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0
+          },
+          "Branches": []
+        }
+      },
+      "mediaAPI.Repositories.UserRepository/<SubscribeAsync>d__3": {
+        "System.Void mediaAPI.Repositories.UserRepository/<SubscribeAsync>d__3::MoveNext()": {
+          "Lines": {
+            "29": 0,
+            "31": 0,
+            "32": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\User\\source\\repos\\mediaAPI\\mediaAPI\\Models\\Post.cs": {
+      "mediaAPI.Models.Post": {
+        "System.Int32 mediaAPI.Models.Post::get_Id()": {
+          "Lines": {
+            "5": 33
+          },
+          "Branches": []
+        },
+        "System.String mediaAPI.Models.Post::get_Title()": {
+          "Lines": {
+            "6": 54
+          },
+          "Branches": []
+        },
+        "System.String mediaAPI.Models.Post::get_Body()": {
+          "Lines": {
+            "7": 52
+          },
+          "Branches": []
+        },
+        "System.Int32 mediaAPI.Models.Post::get_Author()": {
+          "Lines": {
+            "8": 52
+          },
+          "Branches": []
+        },
+        "System.Int32 mediaAPI.Models.Post::get_Likes()": {
+          "Lines": {
+            "9": 13
+          },
+          "Branches": []
+        },
+        "System.Void mediaAPI.Models.Post::.ctor()": {
+          "Lines": {
+            "11": 41,
+            "12": 41,
+            "13": 41
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\User\\source\\repos\\mediaAPI\\mediaAPI\\Models\\User.cs": {
+      "mediaAPI.Models.User": {
+        "System.Int32 mediaAPI.Models.User::get_Id()": {
+          "Lines": {
+            "5": 22
+          },
+          "Branches": []
+        },
+        "System.String mediaAPI.Models.User::get_Username()": {
+          "Lines": {
+            "6": 22
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}

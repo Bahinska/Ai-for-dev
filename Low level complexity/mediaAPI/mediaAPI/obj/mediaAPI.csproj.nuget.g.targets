@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)microsoft.extensions.apidescription.server\6.0.5\build\Microsoft.Extensions.ApiDescription.Server.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.extensions.apidescription.server\6.0.5\build\Microsoft.Extensions.ApiDescription.Server.targets')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.codeanalysis.metrics\3.3.4\buildTransitive\Microsoft.CodeAnalysis.Metrics.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.codeanalysis.metrics\3.3.4\buildTransitive\Microsoft.CodeAnalysis.Metrics.targets')" />
+    <Import Project="$(NuGetPackageRoot)coverlet.msbuild\6.0.0\build\coverlet.msbuild.targets" Condition="Exists('$(NuGetPackageRoot)coverlet.msbuild\6.0.0\build\coverlet.msbuild.targets')" />
+  </ImportGroup>
+</Project>
